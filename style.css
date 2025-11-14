@@ -1,8 +1,11 @@
-  p {
+   p {
    
     text-align: center;
     font-size: 22px;
-    color: #a109b7;
+    text-align: justify;
+    width: 60%;         
+    margin: 0 auto;
+    color: #d764d5;
     }
     h1 {
       font-size: 40px;
